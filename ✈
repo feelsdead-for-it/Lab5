@@ -1,0 +1,14 @@
+#include <iostream>
+#include <string> 
+#include <cmath>
+using namespace std;
+int main()
+{
+
+double byte, kbyte;
+cin >>byte;
+kbyte= byte / 1024;
+	
+	cout<<kbyte<< ends;
+
+}
